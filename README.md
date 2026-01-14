@@ -2,7 +2,7 @@
 
 <h2> Hi 👋, I'm Gokul Thiagarajan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif" width="230">
-<p><em>Senior Software Engineer at <a href="https://www.saggezza.com/">Saggezza</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em>Principal Solution Architect at <a href="https://www.saggezza.com/">Saudi Bank</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
 [![StackOverFlow: Gokulthiagarajan](https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)](https://stackoverflow.com/users/11623735/gokul-thiagarajan)
